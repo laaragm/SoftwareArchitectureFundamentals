@@ -1,0 +1,13 @@
+C:\Users\Lara\source\repos\OOP\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Users\Lara\source\repos\OOP\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Users\Lara\source\repos\OOP\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Users\Lara\source\repos\OOP\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Users\Lara\source\repos\OOP\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\Lara\source\repos\OOP\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\Lara\source\repos\OOP\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Lara\source\repos\OOP\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Lara\source\repos\OOP\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\Lara\source\repos\OOP\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Lara\source\repos\OOP\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\Lara\source\repos\OOP\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\Lara\source\repos\OOP\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
